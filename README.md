@@ -1,5 +1,5 @@
 <h1 align="center">Consultador de CEP com API</h1>
-utilizando o método HTTP para consultar informações de um CEP, utilizando a biblioteca Gson para converter para JSON. Ao finalizar, será criado um arquivo JSON com os dados do CEP consultado.
+utilizando requisições HTTP para consultar informações de um CEP, utilizando a biblioteca Gson para converter para JSON. Ao finalizar, será criado um arquivo JSON com os dados do CEP consultado.
 <h2>Dependência - Biblioteca Gson</h2>        
 
 1- **Configure o IntelliJ IDEA:**
